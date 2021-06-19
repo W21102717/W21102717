@@ -5,6 +5,6 @@
 
 
 <!---
-W21102717/W21102717 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Chan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
